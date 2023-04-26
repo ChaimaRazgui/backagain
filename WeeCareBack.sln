@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8BB7E115-505B-4FF4-A6E0-98AECEF76F07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Naxxum.WeeCare.Authentification", "Naxxum.WeeCare.Authentification", "{BAE3B770-0DBE-4079-B753-29B0D780CE4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.Authentification.Domain", "Naxxum.WeeCare.Authentification.Domain\Naxxum.WeeCare.Authentification.Domain.csproj", "{499A3C02-C1F9-472B-9354-C08903D39134}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.Authentification.Application", "Naxxum.WeeCare.Authentification.Application\Naxxum.WeeCare.Authentification.Application.csproj", "{5A275C39-5C41-47AB-821A-A6DA186DFED3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.Authentification.Infrastructure", "Naxxum.WeeCare.Authentification.Infrastructure\Naxxum.WeeCare.Authentification.Infrastructure.csproj", "{8742FD1C-E746-4E20-8380-0862152B0BC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Naxxum.WeeCare.UserManagement", "Naxxum.WeeCare.UserManagement", "{55D9F7A9-9805-497F-AB49-ED2201F9AADC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.UserManagement.Infrastructrue", "Naxxum.WeeCare.UserManagement.Infrastructrue\Naxxum.WeeCare.UserManagement.Infrastructrue.csproj", "{C9D9A86D-E1AA-45A0-B347-498883184E62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.UserManagement.Domain", "Naxxum.WeeCare.UserManagement.Domain\Naxxum.WeeCare.UserManagement.Domain.csproj", "{C275C985-2346-4321-9A59-F1563C8E9346}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.UserManagement.Application", "Naxxum.WeeCare.UserManagement.Application\Naxxum.WeeCare.UserManagement.Application.csproj", "{275E2E36-DC77-46F1-B230-BB27ECD27298}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.UserManagement.API", "Naxxum.WeeCare.UserManagement.API\Naxxum.WeeCare.UserManagement.API.csproj", "{CC97BA48-BFB1-46CC-AD14-9FED5FB35919}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naxxum.WeeCare.Authentification.API", "Naxxum.WeeCare.Authentification.API\Naxxum.WeeCare.Authentification.API.csproj", "{DD5B753B-5C87-448D-ABDB-56150E3577E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499A3C02-C1F9-472B-9354-C08903D39134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499A3C02-C1F9-472B-9354-C08903D39134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499A3C02-C1F9-472B-9354-C08903D39134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499A3C02-C1F9-472B-9354-C08903D39134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A275C39-5C41-47AB-821A-A6DA186DFED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A275C39-5C41-47AB-821A-A6DA186DFED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A275C39-5C41-47AB-821A-A6DA186DFED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A275C39-5C41-47AB-821A-A6DA186DFED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8742FD1C-E746-4E20-8380-0862152B0BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8742FD1C-E746-4E20-8380-0862152B0BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8742FD1C-E746-4E20-8380-0862152B0BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8742FD1C-E746-4E20-8380-0862152B0BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D9A86D-E1AA-45A0-B347-498883184E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D9A86D-E1AA-45A0-B347-498883184E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D9A86D-E1AA-45A0-B347-498883184E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D9A86D-E1AA-45A0-B347-498883184E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C275C985-2346-4321-9A59-F1563C8E9346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C275C985-2346-4321-9A59-F1563C8E9346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C275C985-2346-4321-9A59-F1563C8E9346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C275C985-2346-4321-9A59-F1563C8E9346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275E2E36-DC77-46F1-B230-BB27ECD27298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E2E36-DC77-46F1-B230-BB27ECD27298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E2E36-DC77-46F1-B230-BB27ECD27298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E2E36-DC77-46F1-B230-BB27ECD27298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC97BA48-BFB1-46CC-AD14-9FED5FB35919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC97BA48-BFB1-46CC-AD14-9FED5FB35919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC97BA48-BFB1-46CC-AD14-9FED5FB35919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC97BA48-BFB1-46CC-AD14-9FED5FB35919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5B753B-5C87-448D-ABDB-56150E3577E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5B753B-5C87-448D-ABDB-56150E3577E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5B753B-5C87-448D-ABDB-56150E3577E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5B753B-5C87-448D-ABDB-56150E3577E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAE3B770-0DBE-4079-B753-29B0D780CE4C} = {8BB7E115-505B-4FF4-A6E0-98AECEF76F07}
+		{499A3C02-C1F9-472B-9354-C08903D39134} = {BAE3B770-0DBE-4079-B753-29B0D780CE4C}
+		{5A275C39-5C41-47AB-821A-A6DA186DFED3} = {BAE3B770-0DBE-4079-B753-29B0D780CE4C}
+		{8742FD1C-E746-4E20-8380-0862152B0BC0} = {BAE3B770-0DBE-4079-B753-29B0D780CE4C}
+		{55D9F7A9-9805-497F-AB49-ED2201F9AADC} = {8BB7E115-505B-4FF4-A6E0-98AECEF76F07}
+		{C9D9A86D-E1AA-45A0-B347-498883184E62} = {55D9F7A9-9805-497F-AB49-ED2201F9AADC}
+		{C275C985-2346-4321-9A59-F1563C8E9346} = {55D9F7A9-9805-497F-AB49-ED2201F9AADC}
+		{275E2E36-DC77-46F1-B230-BB27ECD27298} = {55D9F7A9-9805-497F-AB49-ED2201F9AADC}
+		{CC97BA48-BFB1-46CC-AD14-9FED5FB35919} = {55D9F7A9-9805-497F-AB49-ED2201F9AADC}
+		{DD5B753B-5C87-448D-ABDB-56150E3577E2} = {BAE3B770-0DBE-4079-B753-29B0D780CE4C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25784432-CEE3-40B7-8C3A-40D8443E8D19}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Naxxum.WeeCare.UserManagement.API.props" />
+</Project>

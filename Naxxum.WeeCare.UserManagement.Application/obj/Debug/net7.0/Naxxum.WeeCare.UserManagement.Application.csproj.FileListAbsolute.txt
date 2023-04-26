@@ -1,0 +1,15 @@
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\bin\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.deps.json
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\bin\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\bin\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\bin\Debug\net7.0\Naxxum.WeeCare.UserManagement.Domain.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\bin\Debug\net7.0\Naxxum.WeeCare.UserManagement.Domain.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.AssemblyInfo.cs
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.csproj.CopyComplete
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\refint\Naxxum.WeeCare.UserManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\Naxxum.WeeCare.UserManagement.Application.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxum.WeeCare.UserManagement.Application\obj\Debug\net7.0\ref\Naxxum.WeeCare.UserManagement.Application.dll
